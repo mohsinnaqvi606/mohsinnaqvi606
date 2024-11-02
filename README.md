@@ -1,5 +1,11 @@
 # 💫 About Me:
-Flutter Developer
+👋 Hi, I'm Mohsin Naqvi!
+
+I'm a passionate Flutter developer specializing in building beautiful and performant cross-platform mobile applications. With 4 years of experience in the industry, I have a strong foundation in mobile app development, UI/UX design, and software engineering principles.
+
+🔧 My technical skill set includes:
+
+Flutter framework and Dart programming language UI/UX design principles and responsive layouts RESTful API integration and data management Firebase for authentication, cloud storage, and real-time databases Version control systems (Git) and agile development methodologies
 
 
 ## 🌐 Socials:
