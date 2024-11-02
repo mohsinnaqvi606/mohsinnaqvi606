@@ -3,7 +3,7 @@
 
 I'm a passionate Flutter developer specializing in building beautiful and performant cross-platform mobile applications. With 4 years of experience in the industry, I have a strong foundation in mobile app development, UI/UX design, and software engineering principles.
 
-
+<br/>
 🔧 My technical skill set includes:
 
 Flutter framework and Dart programming language
