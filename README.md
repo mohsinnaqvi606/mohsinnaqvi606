@@ -4,7 +4,6 @@
 
 I am an experienced **Flutter developer** with 4 years of expertise in designing and developing high-quality, cross-platform mobile applications. My focus lies in creating efficient, scalable, and visually appealing solutions that deliver exceptional user experiences.  
 
----
 
 ## 🔧 Technical Skills  
 
@@ -15,9 +14,8 @@ I am an experienced **Flutter developer** with 4 years of expertise in designing
 - **Version Control**: Advanced knowledge of Git for effective collaboration and version management.  
 - **Agile Development**: Hands-on experience with agile methodologies to ensure timely and efficient project delivery.  
 
----
 
-With a strong foundation in software engineering principles and a passion for innovation, I am committed to delivering robust mobile solutions that align with both user needs and business objectives.  
+With a strong foundation in software engineering principles and a passion for innovation, I am committed to delivering robust mobile solutions that align with user needs and business objectives.  
 
 
 
