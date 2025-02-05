@@ -10,6 +10,8 @@ I am an experienced **Flutter developer** with 4 years of expertise in designing
 - **Flutter & Dart**: Proficient in building responsive and performant applications for iOS and Android.  
 - **UI/UX Design**: Expertise in crafting intuitive, user-friendly interfaces and ensuring design consistency.  
 - **API Integration**: Extensive experience in integrating RESTful APIs for seamless communication between apps and backends.  
+- **VoIP Integration**: Skilled in implementing VoIP features for real-time voice communication and call management.  
+- **Deep Links**: Experience in setting up deep links for smooth in-app navigation and external URL handling.  
 - **Firebase**: Skilled in authentication, cloud storage, real-time databases, and push notifications.  
 - **Version Control**: Advanced knowledge of Git for effective collaboration and version management.  
 - **Agile Development**: Hands-on experience with agile methodologies to ensure timely and efficient project delivery.  
