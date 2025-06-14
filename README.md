@@ -2,7 +2,7 @@
 
 👋 **Hi, I'm Mohsin Naqvi!**  
 
-I am an experienced **Flutter developer** with 4 years of expertise in designing and developing high-quality, cross-platform mobile applications. My focus lies in creating efficient, scalable, and visually appealing solutions that deliver exceptional user experiences.  
+I am an experienced **Flutter developer** with 5+ years of expertise in designing and developing high-quality, cross-platform mobile applications. My focus lies in creating efficient, scalable, and visually appealing solutions that deliver exceptional user experiences.  
 
 
 ## 🔧 Technical Skills  
